@@ -1,0 +1,6 @@
+Pair:   190786
+Vis:    C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\visible\test\190786.jpg
+IR:     C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\infrared\test\190786.jpg
+NCM:    1305
+Time:   136.46s
+PASS:   YES

@@ -1,0 +1,6 @@
+Pair:   230274
+Vis:    C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\visible\test\230274.jpg
+IR:     C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\infrared\test\230274.jpg
+NCM:    1117
+Time:   120.40s
+PASS:   YES

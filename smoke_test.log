@@ -1,0 +1,18 @@
+HOMO-Feature Smoke Test
+Image 1: C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\HOMO_Feature_ImgMatching\misc\display1.jpg
+Image 2: C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\HOMO_Feature_ImgMatching\misc\display2.jpg
+------------------------------------------------------------
+
+** Image matching starts: C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\HOMO_Feature_ImgMatching\misc\display1.jpg vs C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\HOMO_Feature_ImgMatching\misc\display2.jpg
+   Image 1: (442, 512)  resample=0.501
+   Image 2: (398, 512)  resample=0.451
+ Done: HOMO pyramid image 1, time=5.8s
+ Done: HOMO pyramid image 2, time=5.5s
+ Done: Keypoints image 1: 5000 pts, time=1.3s
+ Done: Keypoints image 2: 5000 pts, time=1.4s
+ Done: Multiscale matching, time=124.2s
+* Done! NCM=136, total time=138.1s
+------------------------------------------------------------
+NCM (Number of Correct Matches): 136
+Total time:                       138.12s
+Smoke test PASS (NCM >= 50):      YES

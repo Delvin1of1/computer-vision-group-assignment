@@ -1,0 +1,6 @@
+Pair:   260431
+Vis:    C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\visible\test\260431.jpg
+IR:     C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\infrared\test\260431.jpg
+NCM:    1716
+Time:   118.55s
+PASS:   YES

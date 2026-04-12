@@ -1,0 +1,6 @@
+Pair:   220296
+Vis:    C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\visible\test\220296.jpg
+IR:     C:\Users\ELITEBOOK\Desktop\Computer Vision\GroupAssignment\LLVIP\infrared\test\220296.jpg
+NCM:    1039
+Time:   118.98s
+PASS:   YES
