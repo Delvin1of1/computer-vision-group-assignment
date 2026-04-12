@@ -1,0 +1,92 @@
+# HOMO-Feature: Cross-Arbitrary-Modal Image Matching with Homomorphism of Organized Major Orientation
+
+<p align="center">
+  <img src="https://github.com/MrPingQi/HOMO-Feature_ImgMatching/blob/main/misc/HOMO-Feature_logo.png"/>
+</p>
+
+Paper Link: https://openaccess.thecvf.com/content/ICCV2025/html/Gao_HOMO-Feature_Cross-Arbitrary-Modal_Image_Matching_with_Homomorphism_of_Organized_Major_Orientation_ICCV_2025_paper.html
+
+If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com). If you are from China, you may just speak Chinese~ 中国人直接说中文就可以了~
+
+** Now this image matching algorithm is an old-fashioned one, and we highly recommend checking our new method: HOMO-Feature, which is now available at https://github.com/MrPingQi/HIMO_ImgMatching.
+
+
+## 📈 Matching Performance
+A new image matching method of traditional handcrafted framework with the following effects: (2024.09.10)
+
+<table>
+  <tr>
+    <td align="center">One-stage</td>
+    <td align="center">Two-stage</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="misc/2024-09-10_matching_animated_1.gif"/>
+    </td>
+    <td align="center">
+      <img src="misc/2024-09-10_matching_animated_2.gif"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<table>
+  <tr>
+    <td align="center">Multi-camera</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="misc/2024-09-10_cam_matching.gif"/>
+    </td>
+  </tr>
+</table>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="misc/display1.jpg" style="height: 400px; width: auto;"/>
+    </td>
+    <td align="center">
+      <img src="misc/display2.jpg" style="height: 400px; width: auto;"/>
+    </td>
+  </tr>
+</table>
+
+
+## 📰 Presentation Poster
+<p align="center">
+  <img src="misc/HOMO-Feature_poster.jpg"/>
+</p>
+https://iccv.thecvf.com/virtual/2025/poster/871
+
+
+## 📦 Datasets Release
+*** GCZ dataset ***
+
+Google Drive: https://drive.google.com/file/d/1RzHLOuBpUOKsDpMtALIpUBk33MlBJrV6/view?usp=drive_link
+
+Baidu Netdisk: https://pan.baidu.com/s/1XTuAcEGS6PopHpznaYx4bQ?pwd=homo
+
+*** Revised MRSI<sup>[1-2]</sup> dataset labels ***
+
+Google Drive: https://drive.google.com/file/d/1nMq6tzprdqRtsCc-rUwOeiMbxukTrgpU/view?usp=drive_link
+
+Baidu Netdisk: https://pan.baidu.com/s/1FXuk3oUw5ItLnjSYGopkxA?pwd=mrsi
+
+*[1] J. Li, Q. Hu, and M. Ai, “RIFT: Multi-modal image matching based on radiation-variation insensitive feature transform,” IEEE Transactions on Image Processing, vol. 29, pp. 3296–3310, 2019.*
+
+*[2] Y. Yao, Y. Zhang, Y. Wan, X. Liu, X. Yan, and J. Li, “Multi-modal remote sensing image matching considering co-occurrence filter,” IEEE Transactions on Image Processing, vol. 31, pp. 2584–2597, 2022.*
+
+
+## 📚 Citation
+If you find our work useful in your research, please consider citing:
+```bibtex
+@InProceedings{Gao_2025_ICCV,
+    author    = {Gao, Chenzhong and Li, Wei and Weng, Desheng},
+    title     = {{HOMO-Feature}: Cross-Arbitrary-Modal Image Matching with Homomorphism of Organized Major Orientation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    pages     = {10538-10548},
+    year      = {2025}
+}
+```
