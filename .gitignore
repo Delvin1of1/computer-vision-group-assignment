@@ -4,6 +4,15 @@ LLVIP/
 # MATLAB generated output images
 HOMO_Feature_ImgMatching/HOMO_image_matching_demo/save_image/
 
+# MATLAB binary files
+*.mat
+
+# Raw per-pair output images (too large for git)
+results/llvip_sample/
+
+# Claude Code internal folder
+.claude/
+
 # Python cache
 __pycache__/
 *.pyc
