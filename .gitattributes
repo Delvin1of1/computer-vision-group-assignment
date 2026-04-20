@@ -1,0 +1,2 @@
+save_image_project_test01/*.png filter=lfs diff=lfs merge=lfs -text
+save_image_project_test01/*.jpg filter=lfs diff=lfs merge=lfs -text
